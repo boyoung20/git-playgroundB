@@ -1,2 +1,2 @@
 # git-playgroundB
-깃으로 놀아보자
+놀면 뭐허니
